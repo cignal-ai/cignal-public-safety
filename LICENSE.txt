@@ -1,0 +1,70 @@
+Cignal Public Safety License (Version 1.0)
+
+Preamble
+The Cignal Public Safety Dataset is made available to the public to support a shared mission of advancing public safety and promoting security innovation. This License is designed to ensure that the Dataset is used exclusively for these beneficial purposes. Specifically, it seeks to:
+
+Promote Responsible Innovation: Encourage the development of new technologies and research that directly contribute to public safety and security.
+Prevent Misuse: Prohibit the use of the Dataset for activities that could be illegal, harmful, unethical, or contrary to human rights, including but not limited to the creation of generative models that could be used for malicious purposes.
+Preserve Ethical Use: Ensure that the Dataset is not used to limit or infringe upon civil liberties, promote unlawful surveillance, or discriminate against any individual or group.
+Maintain Open Access: Ensure that any valuable insights or models developed from this Dataset are shared openly with the community, preserving the spirit of collective advancement.
+
+This License is not intended to limit the rights of the Licensee but rather to clarify the ethical boundaries and expectations for a shared resource. By using this Dataset, you agree to uphold these principles and to use this resource in a manner that honors its purpose.
+
+1. Definitions
+"Dataset": Refers to the Cignal Public Safety Dataset, including all data, documentation, and associated files made available under this License.
+"Licensee": Any individual or entity exercising permissions granted by this License.
+"Licensor": Cignal LLC.
+"Derivative Work": Any work based upon the Dataset or in which the Dataset is incorporated, including compilations, modifications, or translations.
+"Generative AI Model": Any artificial intelligence, machine learning, or similar computational model, including but not limited to large language models, diffusion models, and neural networks, trained for the purpose of generating new data, content, or outputs that are derived from, inspired by, or based upon the patterns found within the Dataset.
+"Permitted Model": Any machine learning or AI model, excluding Generative AI Models, that is trained, fine-tuned, or otherwise developed using the Dataset. This includes models for tasks such as detection, classification, prediction, or anomaly detection.
+"Associated Identifier": The unique identifier for the Dataset, as provided by the Licensor.
+
+2. Copyright and Ownership
+The Licensor (Cignal LLC) holds and reserves all copyrights, intellectual property rights, and all other proprietary rights in and to the Dataset. This License does not transfer ownership of the Dataset or any part thereof to the Licensee.
+
+3. Grant of License
+The Licensor hereby grants to the Licensee a non-exclusive, worldwide, royalty-free license to:
+
+3.1. Use and Access: Access, download, and use the Dataset for research, analysis, and educational purposes.
+3.2. Reproduction: Reproduce and make copies of the Dataset for personal, academic, or commercial use (subject to the limitations in this License).
+3.3. Distribution: Distribute the Dataset, in its original or Derivative Work form, provided that such distribution is exclusively under the terms of this same Cignal Public Safety License, and is done without charging a fee. A copy of this License must accompany any distributed copies of the Dataset or any Derivative Work, including Permitted Models.
+3.4. Permitted Model Development: Develop Permitted Models using the Dataset, subject to the conditions in this License.
+
+4. Prohibited Uses
+The following uses of the Dataset are expressly prohibited and are not authorized under this License:
+
+4.1. Violation of Law: The use of the Dataset or any Permitted Model developed from it to violate any United States law, including but not limited to, laws governing the use of threat detection models, privacy, and data protection.
+4.2. Export Control: Sharing, distributing, or using the Dataset with or for any individual, entity, or jurisdiction that is on an export control list or subject to sanctions by the United States government. This includes, but is not limited to, the People's Republic of China, North Korea, Russia, and any other country or party on the lists of the Office of Foreign Assets Control (OFAC), the Bureau of Industry and Security (BIS), or the Directorate of Defense Trade Controls (DDTC). The Licensee shall be responsible for ensuring compliance with all applicable export control and sanctions laws and regulations.
+4.3. Disparagement: The Licensee shall not make any disparaging, derogatory, or defamatory remarks, comments, or statements, whether written or oral, concerning the Licensor, the Dataset, or any Permitted Model developed from the Dataset. This provision does not, however, prohibit the Licensee from making truthful statements when required by law, subpoena, court order, or other legal process.
+4.4. Generative AI Model Training: The use of the Dataset, in whole or in part, for the training, fine-tuning, or development of any Generative AI Model, regardless of whether such model is for commercial or non-commercial purposes.
+4.5. Harmful Use: The use of the Dataset to limit or infringe upon civil liberties, promote unlawful surveillance, violate human rights, or engage in any activity that is harmful, discriminatory, or unethical.
+4.6. Unlicensed Distribution: Distributing the Dataset or any Derivative Work without including this License in its entirety.
+
+5. Dissemination of Permitted Models
+Any Permitted Model developed using the Dataset must also be licensed under the terms of this Cignal Public Safety License and must be freely disseminated. The Licensee shall:
+
+5.1. License Requirement: Make the Permitted Model available under the terms of this License and include this License in its entirety.
+5.2. Free Dissemination: Ensure that the Permitted Model, including its weights, checkpoints, or other essential components required for reproduction, is made publicly available for download or access without charging a fee.
+5.3. Source Availability: To the extent practicable, make the training code and methodology used to create the Permitted Model publicly available under a compatible open-source license.
+
+6. Model Card Requirement
+Any Permitted Model that is publicly distributed or otherwise made available to third parties must be accompanied by a model card — a clear and comprehensive document that includes, at a minimum, the following:
+
+6.1. Data Provenance: A clear statement that the model was trained on the Cignal Public Safety Dataset, including the Dataset's Associated Identifier.
+6.1. Intended Use: A description of the model's intended use cases.
+6.3. Ethical Considerations: An outline of any known ethical considerations or limitations of the model.
+6.4. Licensing: The model card must contain this License in its entirety.
+
+7. Attribution
+The Licensee must provide proper attribution to the Licensor in all publications, presentations, reports, or any public-facing materials that rely on or make use of the Dataset or any Permitted Model developed from it. The required attribution shall be:
+
+"The data used is from the Cignal Public Safety Dataset, licensed under the Cignal Public Safety License (Version 1.0). Any derived models are also licensed and freely disseminated under the same terms."
+
+8. Limitation of Liability
+IN NO EVENT SHALL THE LICENSOR BE LIABLE TO THE LICENSEE OR ANY OTHER PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOST PROFITS, LOST REVENUE, LOSS OF GOODWILL, OR LOSS OF DATA), REGARDLESS OF THE LEGAL THEORY, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. No Warranty
+THE DATASET IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+
+10. Termination
+This License will terminate automatically upon any breach of its terms by the Licensee. Upon termination, the Licensee must immediately cease all use of the Dataset and destroy all copies of the Dataset, any Derivative Works, and any Permitted Models in their possession.
